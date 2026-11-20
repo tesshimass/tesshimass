@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tesshimass
-- 👀 I’m interested in ...developing magic things in science
-- 🌱 I’m currently learning ...data analytics
+- 👀 I’m interested in ...developing magical things in science
+- 🌱 I’m currently learning ...UX/UI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... abylovesgoyis@gmail.com 
+- 📫 How to reach me ... alyabyvalz@gmail.com 
 
 <!---
 tesshimass/tesshimass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
