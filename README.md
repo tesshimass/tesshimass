@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tesshimass
-- 👀 I’m interested in ...developing magical things in science
-- 🌱 I’m currently learning ...UX/UI
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing magical things in science
+- 🌱 I’m currently learning UX/UI
+- 💞️ I’m looking to collaborate on EdTech and HealthTech
 - 📫 How to reach me ... alyabyvalz@gmail.com 
 
 <!---
